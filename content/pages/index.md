@@ -40,7 +40,7 @@ sections:
       type: ImageBlock
       url: /images/abstract-feature2.svg
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
