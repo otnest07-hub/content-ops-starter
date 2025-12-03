@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Specialised Physiotherapy & Occupational Therapy for Children & Adults
+      text: Occupational Therapy for Children & Adults
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
