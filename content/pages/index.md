@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Occupational Therapy for Children & Adults
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
