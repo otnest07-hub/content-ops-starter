@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Specialised Physiotherapy & Occupational Therapy for Children & Adults
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
